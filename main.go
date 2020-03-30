@@ -23,3 +23,8 @@ func main() {
 	fmt.Println("Hello Go World!")
 	fmt.Println(t.Now())
 }
+
+/*
+Go has its own built in documentaion.
+Type in go doc + name of a package to learn more about it.s
+*/
